@@ -68,7 +68,7 @@ This role has allowed me to hone my skills in a variety of areas, including mach
 ### 🌐 Social Presence
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/adityaghadge)
-- **GitHub**: [GitHub Profile](https://github.com/Adityag009/Adityag009)
+- **GitHub**: [GitHub Profile](https://github.com/Adityag009)
 - **Instagram"**:[Instagram Profile](https://www.instagram.com/__aaditya__9/)
   
 ---
