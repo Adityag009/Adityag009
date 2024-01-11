@@ -13,7 +13,6 @@ I'm a passionate Junior Data Scientist skilled in leveraging data to solve real-
 - Postgraduate Degree in Predictive Analytics from the BSE Institute Ltd 
 - Bachelor's degree in Physics from the University of Mumbai
 
-📅 **DOB**: 9th July 1999
 
 🚀 **Skills**:
 - **Programming**: Python, R ,SQL and NoSql
