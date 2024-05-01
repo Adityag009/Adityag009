@@ -26,6 +26,7 @@ I'm a passionate Junior Data Scientist skilled in leveraging data to solve real-
 ### 🛠️ My Projects
 
 - **Cloud Cover Detection in Satellite Images**: I developed and trained a U-Net model to accurately detect cloud cover in satellite images.
+- **Image Generation** :  Demonstrating advanced image generation techniques using diffusion models and inpainting algorithms
 - **PowerPoint Presentation Elements Detection**: Developed an automated solution using YOLOv8 for detecting elements in PowerPoint presentations.
 - **Resume Optimization Suite**: An advanced tool leveraging language models for interview preparation and resume analysis.
 - **Movie Recommendation System**: Built a system using text vectorization for personalized movie recommendations.
@@ -54,7 +55,7 @@ As a Junior Data Scientist at Giant Analytics, I've been at the forefront of pio
 
 
 
-This role has allowed me to hone my skills in a variety of areas, including machine learning, data processing, and cross-functional collaboration, while contributing to cutting-edge solutions in data science.
+This role has allowed me to hone my skills in a variety of areas, including machine learning, data processing, and cross-functional collaboration while contributing to cutting-edge solutions in data science.
 
 ### 🚀 Additional Skills
 
