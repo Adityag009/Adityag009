@@ -1,6 +1,6 @@
 # Hello, I'm Aditya Ghadge! 👋
 
-## Junior Data Scientist | Data Enthusiast | Tech Explorer
+## Data Scientist | Data Enthusiast | Tech Explorer
 
 🌏 Mumbai, Maharashtra – 400025 | 📞 +91 836 918 4996 | 📧 adityaghadge99@gmail.com
 
