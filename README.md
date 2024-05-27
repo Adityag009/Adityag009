@@ -25,8 +25,9 @@ I'm a passionate Junior Data Scientist skilled in leveraging data to solve real-
 
 ### 🛠️ My Projects
 
+-**Fine-tuning Stable Diffusion Model on a Custom Dataset**:  Fine-tune a stable diffusion model on a custom Dataset to generate high-quality, detailed Images.
 - **Cloud Cover Detection in Satellite Images**: I developed and trained a U-Net model to accurately detect cloud cover in satellite images.
-- **Image Generation** :  Demonstrating advanced image generation techniques using diffusion models and inpainting algorithms
+- **Image Generation**:  Demonstrating advanced image generation techniques using diffusion models and inpainting algorithms
 - **PowerPoint Presentation Elements Detection**: Developed an automated solution using YOLOv8 for detecting elements in PowerPoint presentations.
 - **Resume Optimization Suite**: An advanced tool leveraging language models for interview preparation and resume analysis.
 - **Movie Recommendation System**: Built a system using text vectorization for personalized movie recommendations.
