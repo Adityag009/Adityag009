@@ -92,6 +92,7 @@ This role has allowed me to hone my skills in a variety of areas, including mach
 
 - Data Science with ML, AI, GUI & VUI with Libraries of Python (Udemy)
 - NISM-Series-VIII: Equity Derivatives Certification
+- Affective Computing NPTL
   
 
 ---
