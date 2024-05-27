@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 About Me
-I'm a passionate Junior Data Scientist skilled in leveraging data to solve real-world problems. My journey in data science is driven by curiosity and the endless possibilities of data.
+I'm a passionate  Data Scientist skilled in leveraging data to solve real-world problems. My journey in data science is driven by curiosity and the endless possibilities of data.
 
 🎓 **Education**: 
 - Postgraduate Degree in Predictive Analytics from the BSE Institute Ltd 
@@ -16,8 +16,8 @@ I'm a passionate Junior Data Scientist skilled in leveraging data to solve real-
 
 🚀 **Skills**:
 - **Programming**: Python, R, SQL and NoSql
-- **Data Science**: Machine Learning, Deep Learning, NLP, Computer Vision, generative AI, LLM models , Stable diffusion , Vision language models   
-- **Tools**: Git, GitHub, Docker, PowerBI, Tableau, SQL, AWS/GCP, MongoDB, Postgres , Notion, Slack, Jira ,trello 
+- **Data Science**: Generative AI, LLM models, Stable diffusion, Vision language models, Machine Learning, Deep Learning, NLP, Computer Vision,   
+- **Tools**: Git, GitHub, Docker, PowerBI, Tableau, SQL, AWS/GCP, MongoDB, Postgres, Notion, Slack, Jira,Trello 
 - **Frameworks**: TensorFlow, Keras, PyTorch, Numpy, Sci-kit learn, Pandas
 - **Languages**: English, Hindi, Marathi, learning Spanish and German
 
