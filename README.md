@@ -15,17 +15,18 @@ I'm a passionate Junior Data Scientist skilled in leveraging data to solve real-
 
 
 🚀 **Skills**:
-- **Programming**: Python, R ,SQL and NoSql
-- **Data Science**: Machine Learning, Deep Learning, NLP, Computer Vision, LLM 
-- **Tools**: Git, GitHub, Docker, PowerBI, Tableau, SQL, AWS/GCP , MogoDB , Postgres ,Notion , Slack , Jira
-- **Frameworks**: TensorFlow, Keras, PyTorch , Numpy , Sci-kit learn , Pandas
-- **Languages**: English, Hindi, Marathi , learing Spanish
+- **Programming**: Python, R, SQL and NoSql
+- **Data Science**: Machine Learning, Deep Learning, NLP, Computer Vision, generative AI, LLM models , Stable diffusion , Vision language models   
+- **Tools**: Git, GitHub, Docker, PowerBI, Tableau, SQL, AWS/GCP, MongoDB, Postgres , Notion, Slack, Jira ,trello 
+- **Frameworks**: TensorFlow, Keras, PyTorch, Numpy, Sci-kit learn, Pandas
+- **Languages**: English, Hindi, Marathi, learning Spanish and German
 
 ---
 
 ### 🛠️ My Projects
 
--**Fine-tuning Stable Diffusion Model on a Custom Dataset**:  Fine-tune a stable diffusion model on a custom Dataset to generate high-quality, detailed Images.
+- **Fine-tuning Stable Diffusion Model on a Custom Dataset**: Fine-tune a stable diffusion model on a custom Dataset to generate high-quality, detailed Images.
+- **Vision-Language Models for Textile Design Description**: Explored the capabilities of multiple Vision-Language models to generate detailed descriptions for textile design images.
 - **Cloud Cover Detection in Satellite Images**: I developed and trained a U-Net model to accurately detect cloud cover in satellite images.
 - **Image Generation**:  Demonstrating advanced image generation techniques using diffusion models and inpainting algorithms
 - **PowerPoint Presentation Elements Detection**: Developed an automated solution using YOLOv8 for detecting elements in PowerPoint presentations.
@@ -50,6 +51,8 @@ As a Junior Data Scientist at Giant Analytics, I've been at the forefront of pio
 - **Statistical Methods for Recommendation Systems**: Implemented innovative statistical methods like permutation combinations to create a grid-based framework for more precise recommendations.
 - **Collaboration and Global Perspective**: Collaborated with international colleagues, particularly from the Netherlands, bringing diverse insights into our problem-solving approaches.
 - **Fast API for Recommendation Systems**: Developed a FastAPI interface for our recommendation system, leveraging statistics for performance and scalability.
+- **Docker**: Developing Docker for project Pushing Dockers with version control on AWS ECR. Deployment of docker.
+- **AWS** : AWS instance, S3 Buckets , ECR , SQS etc.
 - **Data Scraping and Dataset Creation**: Worked on extracting PowerPoint presentations and PDFs from platforms like Screener and SlideShare, creating comprehensive datasets for analysis.
 - **Streamlit Interface Development**: Developed a Streamlit interface for dynamic assignment generation, integrated with OpenAI's API for real-time customization.
 - **Phone Number Validation Framework**: Designed a robust framework to validate phone numbers across different international formats, ensuring high accuracy and reliability.
