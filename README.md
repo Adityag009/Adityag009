@@ -42,20 +42,68 @@ I'm a passionate  Data Scientist skilled in leveraging data to solve real-world 
 
 ### 📈 My Contributions at Work
 
-- #### Giant Analytics, Mumbai (May 2023 - Present)
+## Giant Analytics, Mumbai (15/05/2023 - Present)
 
-As a Junior Data Scientist at Giant Analytics, I've been at the forefront of pioneering computer vision and NLP projects. My role involves significant contributions to diverse projects, interacting closely with international clients and senior data scientists for optimal outcomes. Key accomplishments include:
+As a Data Scientist at Giant Analytics, I specialize in Generative AI and NLP, leading cutting-edge projects that push the boundaries of AI innovation. My role involves close collaboration with international clients and senior data scientists from the US and Ireland, allowing me to stay at the forefront of technological advancements. Key projects and contributions include:
 
-- **Image Object Detection**: Led projects focusing on image object detection, utilizing advanced algorithms and pre-trained models like YOLO for precision and efficiency.
-- **Recommendation System Development**: Engaged in developing a recommendation system using the CLIP model, enhancing accuracy with its cross-modal capabilities.
-- **Statistical Methods for Recommendation Systems**: Implemented innovative statistical methods like permutation combinations to create a grid-based framework for more precise recommendations.
-- **Collaboration and Global Perspective**: Collaborated with international colleagues, particularly from the Netherlands, bringing diverse insights into our problem-solving approaches.
-- **Fast API for Recommendation Systems**: Developed a FastAPI interface for our recommendation system, leveraging statistics for performance and scalability.
-- **Docker**: Developing Docker for project Pushing Dockers with version control on AWS ECR. Deployment of docker.
-- **AWS** : AWS instance, S3 Buckets , ECR , SQS etc.
-- **Data Scraping and Dataset Creation**: Worked on extracting PowerPoint presentations and PDFs from platforms like Screener and SlideShare, creating comprehensive datasets for analysis.
-- **Streamlit Interface Development**: Developed a Streamlit interface for dynamic assignment generation, integrated with OpenAI's API for real-time customization.
-- **Phone Number Validation Framework**: Designed a robust framework to validate phone numbers across different international formats, ensuring high accuracy and reliability.
+### Generative AI Fashion Project (Lead)
+- **Team Leadership**: Led a team focused on image generation and vision-language models, ensuring project milestones were met.
+- **Client Interaction**: Facilitated clear communication of project requirements with clients, ensuring alignment with their vision.
+- **Research and Development**: Researched advanced methodologies and architectures to improve model accuracy for image generation.
+- **Model Training**: Trained models on custom datasets using techniques like LORA and full fine-tuning for optimized performance.
+- **Pipeline Construction**: Developed a custom pipeline combining Vision and LLM models for enhanced results.
+- **Prompt Engineering**: Curated a prompt-to-prompt method, increasing user prompt accuracy by 90%.
+- **Model Deployment**: Deployed fine-tuned models on Hugging Face for client testing and optimized them based on feedback.
+- **AWS Sagemaker**: Utilized AWS Sagemaker for production deployment, ensuring scalability and reliability.
+- **Custom Gradio Development**: Built a customized Gradio interface tailored to client needs.
+- **Documentation and Presentation**: Documented project processes and presented workflows to stakeholders, ensuring transparency and understanding.
+
+### Generative AI Tattoo Project
+- **Proof of Concept**: Created a proof of concept for tattoo image generation, collaborating with a client from Malta.
+- **Requirement Documentation**: Researched and developed a comprehensive requirement document to guide the project.
+- **Prompt Engineering**: Engineered prompts for tattoo images, allowing for easy modifications by artists.
+- **Model Utilization**: Employed SDXL and SD3 models for generating high-quality tattoo designs.
+
+### Custom ComfyUI Workflow
+- **UI Design**: Designed custom UI workflows for image generation, enhancing user experience and functionality.
+
+### CLIP Model Recommendation System (Revent)
+- **Model Creation**: Led the development of a CLIP model using PyTorch, tailored to specific recommendation needs.
+- **Dataset and Architecture**: Built a unique dataset and modified the model architecture to improve recommendation precision.
+- **Model Enhancement**: Achieved greater accuracy and relevance in recommendations through continuous model refinement.
+
+### Doc to Doc Project (Revent)
+- **Algorithm Development**: Engineered an algorithm to convert unstructured documents into structured formats.
+- **Pipeline and API Integration**: Developed the necessary pipelines and API connections, deployed using Docker.
+
+### Doc to PPT Project (Revent)
+- **Document Conversion**: Transformed documents into PowerPoint presentations, integrating FastAPI with AWS services for seamless operation.
+
+### Custom Recommendation System (Revent)
+- **Statistical Methods**: Implemented innovative statistical methods and a grid-based framework to enhance recommendation accuracy.
+- **API and Docker Deployment**: Created scalable FastAPI APIs and deployed them using Docker for efficient performance.
+
+### Cloud Deployment & Infrastructure Management
+- **Deployment Optimization**: Enhanced deployment efficiency using Docker, AWS, and Nginx.
+- **Infrastructure Management**: Managed Docker images and deployed projects on AWS EC2, Sagemaker, and Bedrock environments.
+
+### Object Detection & Data Extraction
+- **Object Detection System**: Developed an object detection system, improving accuracy from 62% to 94%.
+- **Data Extraction**: Extracted data from PowerPoint presentations and PDFs using advanced web scraping techniques.
+
+### Natural Language Processing (NLP) Advancement
+- **RAG-based Chatbot Development**: Created a RAG-based chatbot for healthcare domain queries in local languages.
+- **NLP Task Integration**: Integrated sophisticated NLP tasks and custom document indexing solutions.
+- **Deployment**: Deployed the system on an EC2 Instance with Nginx proxy server for stakeholder testing.
+
+### Generative AI Exploration
+- **Inpainting Research**: Investigated stable diffusion inpainting techniques for product photography image generation.
+- **Client Demonstration**: Showcased the potential of AI in image generation to clients, demonstrating its value in various applications.
+- **LLM Model Experimentation**: Explored models like Gemma, Llama, Mistral, and KERAN for diverse use cases, expanding the company's AI capabilities.
+
+### International Collaboration
+- **Global Teamwork**: Collaborated with colleagues from the Netherlands, Chennai, Ireland, and Singapore, fostering innovation and enhancing project outcomes.
+
 
 
 
