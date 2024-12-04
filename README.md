@@ -27,6 +27,7 @@ I'm a passionate  Data Scientist skilled in leveraging data to solve real-world 
 
 - **Fine-tuning Stable Diffusion Model on a Custom Dataset**: Fine-tune a stable diffusion model on a custom Dataset to generate high-quality, detailed Images.
 - **Vision-Language Models for Textile Design Description**: Explored the capabilities of multiple Vision-Language models to generate detailed descriptions for textile design images.
+- **VisDrone** : object detection and classification on drone-captured imagery using YOLO (You Only Look Once) models.
 - **Cloud Cover Detection in Satellite Images**: I developed and trained a U-Net model to accurately detect cloud cover in satellite images.
 - **Image Generation**:  Demonstrating advanced image generation techniques using diffusion models and inpainting algorithms
 - **PowerPoint Presentation Elements Detection**: Developed an automated solution using YOLOv8 for detecting elements in PowerPoint presentations.
