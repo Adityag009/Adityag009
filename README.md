@@ -16,9 +16,9 @@ I'm a passionate  Data Scientist skilled in leveraging data to solve real-world 
 
 🚀 **Skills**:
 - **Programming**: Python, R, SQL and NoSql
-- **Data Science**: Generative AI, LLM models, Stable diffusion, Vision language models, Machine Learning, Deep Learning, NLP, Computer Vision,   
+- **Data Science**: Generative AI,AI Agent,LLM models, Stable diffusion, Vision language models, Machine Learning, Deep Learning, NLP, Computer Vision, 
 - **Tools**: Git, GitHub, Docker, PowerBI, Tableau, SQL, AWS/GCP, MongoDB, Postgres, Notion, Slack, Jira,Trello 
-- **Frameworks**: TensorFlow, Keras, PyTorch, Numpy, Sci-kit learn, Pandas
+- **Frameworks**: TensorFlow, Smolagents, LlamaIndex, Lagnchain, PhiData , Keras, PyTorch, Numpy, Sci-kit learn, Pandas
 - **Languages**: English, Hindi, Marathi, learning Spanish and German
 
 ---
@@ -26,12 +26,16 @@ I'm a passionate  Data Scientist skilled in leveraging data to solve real-world 
 ### 🛠️ My Projects
 
 - **Fine-tuning Stable Diffusion Model on a Custom Dataset**: Fine-tune a stable diffusion model on a custom Dataset to generate high-quality, detailed Images.
+- **Visionary AI Agent**:  Developed an AI-driven tool that extracts company data, analyzes industry AI trends, and generates structured AI adoption strategies using advanced reasoning models.
+- **Professional Arabic-English Document OCR System**: Developed an OCR system optimized for government and official documents using EasyOCR and computer vision. Enabled bilingual text extraction, real-time processing, and confidence scoring. Integrated with Gradio for an intuitive UI and deployed on Hugging Face Spaces for accessibility.
+- **FinChat-AI**:Developed an AI-driven financial analysis tool using ChatGLM2-6B, fine-tuned with LoRA. Enabled sentiment analysis of financial news, technical pattern identification, and actionable insights for traders. Integrated generative AI with financial data to enhance decision-making, leveraging AWS SageMaker for deployment.
+- **Stock Analysis with AI Agents**:Developed an AI-driven stock analysis system using OpenAI GPT, Gemini, and Groq Llama. Integrated real-time data from Yahoo Finance and DuckDuckGo to enable technical chart pattern recognition and actionable insights for investors. Demonstrated how AI agents enhance financial decision-making and market analysis.
+- **Zepto AI Agent**: Developed an AI-powered agent integrating Vision-Language Models (VLMs) to automate interactions with the Zepto website. Enabled category detection, such as Fruits & Vegetables and Dairy & Eggs, without manual input. Inspired by OpenAI’s Operator and smolagents, this project demonstrates AI-driven quick-commerce automation.
 - **Vision-Language Models for Textile Design Description**: Explored the capabilities of multiple Vision-Language models to generate detailed descriptions for textile design images.
 - **VisDrone** : object detection and classification on drone-captured imagery using YOLO (You Only Look Once) models.
 - **Cloud Cover Detection in Satellite Images**: I developed and trained a U-Net model to accurately detect cloud cover in satellite images.
 - **Image Generation**:  Demonstrating advanced image generation techniques using diffusion models and inpainting algorithms
 - **PowerPoint Presentation Elements Detection**: Developed an automated solution using YOLOv8 for detecting elements in PowerPoint presentations.
-- **Resume Optimization Suite**: An advanced tool leveraging language models for interview preparation and resume analysis.
 - **Movie Recommendation System**: Built a system using text vectorization for personalized movie recommendations.
 - **Web Scraping with Selenium**: Automated data extraction from LinkedIn using Python and Selenium.
 - **Metabolic Syndrome Analysis Using ML and DL**: Metabolic Syndrome Analysis: Exploratory Data Analysis and Predictive Modeling.
