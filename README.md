@@ -27,8 +27,6 @@ AI Engineer with 4+ years building production AI systems. Currently pursuing MSc
 
 ---
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/aditya-ghadge-a82b30240/) | [Email](mailto:adityaghadge99@gmail.com) | [Portfolio](https://ai-canvas-horizon.vercel.app/)
-
-💡 *Open to collaborations on AI research, computer vision projects, and innovative ML applications*)
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/aditya-ghadge-a82b30240/) | [Email](mailto:adityaghadge99@gmail.com) | [Portfolio](https://adi009.vercel.app/)
 
 💡 *Open to collaborations on AI research, computer vision projects, and innovative ML applications*
